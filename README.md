@@ -1,6 +1,10 @@
 # ST2 (Théorie des Jeux) - EI Algorithmique Génétique
 
-![CentraleSupelec Logo](https://www.centralesupelec.fr/sites/all/themes/cs_theme/medias/common/images/intro/logo_nouveau.jpg)
+<div style="display: flex;">
+  <img src="visuels/Best_AG_results.jpg" alt="Image 1" style="flex: 40%; padding: 5px;width: 200px;">
+  <img src="visuels/Zoomed_Best_Results.png" alt="Image 2" style="flex: 40%; padding: 5px;width: 200px;">
+</div>
+
 
 ## MEMBRES DU GROUPE
 
