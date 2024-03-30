@@ -4,10 +4,10 @@
 
 ## MEMBRES DU GROUPE
 
-Alexis VRIELYNCK
-Tonino DIONISI
-William AUROUX
-Erwan BERNE
+William AUROUX,
+Alexis VRIELYNCK,
+Tonino DIONISI,
+Erwan BERNE,
 Timothée BOURRET
 
 ## CONTEXTE
@@ -42,5 +42,6 @@ Pour obtenir le bilan du coverage, exécuter <code>coverage html</code> puis ouv
 - Exécution : <code>python -m dna --help</code>
 - L'exécution du paramètre <code>--pace</code> ou <code>-p</code> permet une exécution plus rapide et utilisant moins les capacités du processeur. Sans ce paramètre, le programme produit un meilleur résultat mais est plus lent et utilise toutes les capacités du processeur. Il n'est pas recommandé d'utiliser le mode lent pour le plasmide 180k (temps d'exécution long)
 - Pour obtenir un résultat, utiliser les paramètres <code>-r</code> ou <code>-g</code> pour utiliser le recuit simulé ou l'algorithme génétique.
+- Par exemple, pour éxectuer le code, en utilisant la méthode du recuit simulé et pour une exécution rapide, entrer la commande : <code>python -m dna data/plasmid_8k.fasta -r -rapide</code>
 
 Après exécution, le programme affiche la table de rotation trouvée et la trajectoire 3D de la séquence d'ADN.
