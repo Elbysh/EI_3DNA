@@ -3,8 +3,8 @@
 ## Représentation 3D des meilleurs résultats obtenus
 
 <div style="display: flex;">
-  <img src="visuels/Best_AG_results.jpg" alt="Image 1" style="flex: 1; padding: 5px; width : 500px;">
-  <img src="visuels/Zoomed_Best_Results.png" alt="Image 2" style="flex: 1; padding: 5px; width : 500px">
+  <img src="visuels/Best_AG_results.jpg" alt="Image 1" style="flex: 45%; padding: 5px; width : 400px;">
+  <img src="visuels/Zoomed_Best_Results.png" alt="Image 2" style="flex: 45%; padding: 5px; width : 400px">
 </div>
 
 
