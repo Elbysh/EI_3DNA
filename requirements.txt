@@ -1,0 +1,6 @@
+mathutils
+numpy
+matplotlib
+multiprocessing
+pytest
+coverage

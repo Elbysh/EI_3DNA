@@ -1,0 +1,7 @@
+# run: conda env create --file environment.yml
+name: 3dna
+dependencies:
+#- python<=3.7
+- pip
+- pip:
+  - -r requirements.txt
